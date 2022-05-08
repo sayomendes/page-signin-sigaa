@@ -34,8 +34,9 @@ main {
     margin-right: 15px;
 }
 
-.icontitle {
+.iconTitle {
     color: #a5b3c9;
+    font-size: 20px;
 }
 
 .title {
